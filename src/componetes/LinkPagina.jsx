@@ -1,9 +1,9 @@
 import '../estilos/LinkPagina.css'
 
-export const LinkPagina = ({nombrePagina}) => {
+export const LinkPagina = ({ pagina }) => {
   return (
     <a className="link" >
-        {nombrePagina}
+        {pagina}
     </a>
   )
 }

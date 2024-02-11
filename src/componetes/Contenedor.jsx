@@ -11,11 +11,11 @@ export const Contenedor = () => {
     <p className="conte-pais">Londo, United Kingdom</p>
     <p className="conte-des">{'"Front-end developer and avid reader."'}</p>
 
-    <LinkPagina nombrePagina="GitHub" />
-    <LinkPagina nombrePagina="Fronted Mentor" />
-    <LinkPagina nombrePagina="LinkedIn" />
-    <LinkPagina nombrePagina="Twitter" />
-    <LinkPagina nombrePagina="Instagram" />
+    <LinkPagina pagina="GitHub" />
+    <LinkPagina pagina="Fronted Mentor" />
+    <LinkPagina pagina="LinkedIn" />
+    <LinkPagina pagina="Twitter" />
+    <LinkPagina pagina="Instagram" />
     
    </section>
   )
